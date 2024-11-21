@@ -43,7 +43,8 @@ In this repository, I completed the following assignment.
 
 ### Task 1: Obtaining String Length 
 
-- Create a string with some text content. - Use the `length` property to obtain the length of the string.
+- Create a string with some text content. 
+- Use the `length` property to obtain the length of the string.
 
         let message = "Hello, World!";
 
